@@ -23,3 +23,7 @@ body {
   background-color: #40E03A;
   text-decoration: bold;
 }
+
+.result {
+  font-size: x-large;
+}
