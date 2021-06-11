@@ -14,3 +14,7 @@ Expected Output: ["Beep!"]
 Test: It will return "Boop!" array when 2 is inputted
 Code: beepBoop("2")
 Expected Output: ["Boop!"]
+
+Test: It will return "Won't you be my neighbor?" array when 3 is inputted
+Code: beepBoop("3")
+Expected Output: ["Won't you be my neighbor?"]
