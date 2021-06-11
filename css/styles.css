@@ -1,18 +1,19 @@
 body {
   background-color: #31AD2D;
+  padding: 2%;
 }
 
 .jumbotron {
   text-align: center;
   background-color: #84E681;
+  border: solid #1C6119;
 }
 
 .card {
   margin-left: 2%;
   margin-right: 2%;
   text-align: center;
-  border: solid 8px;
-  border-color: #1C6119;
+  border: solid #1C6119;
   background-color: #84E681 ;
 }
 
