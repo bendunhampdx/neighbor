@@ -10,3 +10,7 @@ Expected Output: ["0" "1" "2" "3" "4" "5"]
 Test: It will return "Beep!" array when 1 is inputted
 Code: beepBoop("1")
 Expected Output: ["Beep!"]
+
+Test: It will return "Boop!" array when 2 is inputted
+Code: beepBoop("2")
+Expected Output: ["Boop!"]
