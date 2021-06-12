@@ -2,7 +2,7 @@
 
 function beepBoop(number) {
   let newArray = [];
-  for (let i = 0; i <= number; i++) {
+  for (i = 0; i <= number; i++) {
     newArray.push([i].toString()); {
       if ([i].toString().includes("3")) {
         newArray.splice(i, 3, "Won't you be my neighbor?")
